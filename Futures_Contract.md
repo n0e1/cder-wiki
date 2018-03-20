@@ -15,8 +15,6 @@ Futures contracts do not require you to post full collateral as margin, because 
 5. Read the Profit/Loss Guide
 6. Futures Contract Specifications:
 
-#### Example:
-
 Example  | Ethereum 
 ------------- | -------------
 Main Ticker     | fEth18

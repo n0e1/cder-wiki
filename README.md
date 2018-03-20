@@ -28,11 +28,11 @@ When you place buy or sell orders, the order amount is transferred to a smart co
 
 If you want to get acquainted with the CDER.IO platform, we recommend to do that following these steps:
 
-1. Read the platform guidelines and FAQ
-2. Read about types of contracts traded on CDER.IO
-3. Learn about types of orders and rules for their placing
-4. Read about the terms of leverage use and the position liquidation methods
+1. Read the platform guidelines and [FAQ](https://github.com/n0e1/cder-wiki/blob/master/FAQ.md)
+2. Read about [types of contracts](https://github.com/n0e1/cder-wiki/blob/master/Contracts.md) traded on CDER.IO
+3. Learn about [types of orders](https://github.com/n0e1/cder-wiki/blob/master/Order_Types.md) and [rules for their placing](https://github.com/n0e1/cder-wiki/blob/master/Order_Placing.md)
+4. Read about the terms of [leverage use](https://github.com/n0e1/cder-wiki/blob/master/Leverage.md) and the position liquidation methods
 5. If you come across unfamiliar terms, you can always find their definition in Terminology
-6. Find out more about platform fees
+6. Find out more about platform [fees](https://github.com/n0e1/cder-wiki/blob/master/Fees.md)
 
 We encourage all our new users to try out the platform features on our sandbox testing exchange test.cder.io. Your orders will be filled only on testnet but you will be able to see at first hand all features of the platform. 

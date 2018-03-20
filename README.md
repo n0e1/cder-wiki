@@ -8,7 +8,7 @@ CDER.IO is a peer-to-peer platform for trading derivatives. All transactions are
 
 There are no conventional cryptocurrency exchange operations on CDER.IO. Only derivatives, such as futures, options and swaps are traded here. 
 
-Our main trading pair - ETH/fBTC (Ethereum/Bitcoin futures)
+Main trading pair - ETH/fBTC (Ethereum/Bitcoin futures)
 
 Unlike with centralized exchanges, you don’t have to top up your balance and worry about funds safety and withdrawal when trading on CDER.IO. All the money is on your wallets and under your control. 
 When you place buy or sell orders, the order amount is transferred to a smart contract. If the order is canceled, you get a full refund. If the order is filled, a bilateral operation is carried out and stored in the Ethereum blockchain. All derivatives have ERC20 standard and are, in effect, individual cryptocurrencies.
